@@ -50,10 +50,58 @@
             "InVillage" : false
         },
         {
-            "WeaponName" : "[ 각성 ] [ 데스페라도 ] [ +1 ]",
-            "RightCoolDown" : 20,
+            "WeaponName" : "[ 초월 ] [ 흡혈귀 ] [ MAX ]",
+            "RightCoolDown" : 14,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 문라이트 ] [ MAX ]",
+            "RightCoolDown" : 15,
+            "LeftCoolDown" : 7,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 잔월효성 ] [ MAX ]",
+            "RightCoolDown" : 15,
+            "LeftCoolDown" : 8,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 트리플스타 ] [ SPECIAL ]",
+            "RightCoolDown" : 14,
             "LeftCoolDown" : 0,
             "InVillage" : true
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 사령소환 ] [ MAX ]",
+            "RightCoolDown" : 16,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 블랙홀 ] [ MAX ]",
+            "RightCoolDown" : 14,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 볼케이노 ] [ MAX ]",
+            "RightCoolDown" : 15,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 흑월참 ] [ MAX ]",
+            "RightCoolDown" : 17,
+            "LeftCoolDown" : 17,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 각성 ] [ 가디언 ] [ MAX ]",
+            "RightCoolDown" : 21,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
         }
     ]
 }
