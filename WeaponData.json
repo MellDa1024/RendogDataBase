@@ -1,0 +1,59 @@
+{
+    "Enabled": true,
+    "WeaponList" : [
+        {
+            "WeaponName" : "[ 데모닉 ] [ +1 ]",
+            "RightCoolDown" : 16,
+            "LeftCoolDown" : 3,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ :: 녹스 체인 :: ] [ SPECIAL ]",
+            "RightCoolDown" : 25,
+            "LeftCoolDown" : 25,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ 섀도어 ] [ MAX ]",
+            "RightCoolDown" : 8,
+            "LeftCoolDown" : 1,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ :: 스피드 블럭 :: ]",
+            "RightCoolDown" : 12,
+            "LeftCoolDown" : 0,
+            "invillage" : true
+        },
+        {
+            "WeaponName" : "[ 각성 ] [ 비숍 ] [ +2 ]",
+            "RightCoolDown" : 18,
+            "LeftCoolDown" : 0,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ 각성 ] [ 라이오닉 ] [ MAX ]",
+            "RightCoolDown" : 12,
+            "LeftCoolDown" : 0,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ :: 스톰크러셔 :: ] [ SPECIAL ]",
+            "RightCoolDown" : 20,
+            "LeftCoolDown" : 0,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ :: 네크로해머 :: ] [ SPECIAL ]",
+            "RightCoolDown" : 20,
+            "LeftCoolDown" : 0,
+            "invillage" : false
+        },
+        {
+            "WeaponName" : "[ 각성 ] [ 데스페라도 ] [ +1 ]",
+            "RightCoolDown" : 20,
+            "LeftCoolDown" : 0,
+            "invillage" : true
+        }
+    ]
+}
