@@ -102,6 +102,18 @@
             "RightCoolDown" : 21,
             "LeftCoolDown" : 0,
             "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 다크로즈 ] [ MAX ]",
+            "RightCoolDown" : 18,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
+        },
+        {
+            "WeaponName" : "[ 초월 ] [ 가디언 ] [ MAX ]",
+            "RightCoolDown" : 21,
+            "LeftCoolDown" : 0,
+            "InVillage" : false
         }
     ]
 }
