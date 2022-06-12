@@ -760,7 +760,7 @@
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
-            "InVillage" : true,
+            "InVillage" : true
         },
         {
             "WeaponName": "[ :: 스톰크러셔 :: ]",
@@ -768,7 +768,7 @@
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
-            "InVillage" : false,
+            "InVillage" : false
         },
         {
             "WeaponName": "[ :: 네크로해머 :: ]",
@@ -776,7 +776,7 @@
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
-            "InVillage" : false,
+            "InVillage" : false
         },
         {
             "WeaponName": "[ :: 에반리스트 :: ]",
@@ -784,7 +784,7 @@
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
-            "InVillage" : false,
+            "InVillage" : false
         },
         {
             "WeaponName": "[ :: 녹스 체인 :: ]",
@@ -792,7 +792,7 @@
             "changebylevel" : false,
             "LeftCoolDown" : [25.0],
             "RightCoolDown" : [25.0],
-            "InVillage" : false,
+            "InVillage" : false
         }
     ]
 }
