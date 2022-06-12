@@ -753,6 +753,46 @@
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트리플스타 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [14.0],
+            "InVillage" : true,
+        },
+        {
+            "WeaponName": "[ :: 스톰크러셔 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : false,
+        },
+        {
+            "WeaponName": "[ :: 네크로해머 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : false,
+        },
+        {
+            "WeaponName": "[ :: 에반리스트 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : false,
+        },
+        {
+            "WeaponName": "[ :: 녹스 체인 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [25.0],
+            "RightCoolDown" : [25.0],
+            "InVillage" : false,
         }
     ]
 }
