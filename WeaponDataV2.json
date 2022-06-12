@@ -1,6 +1,6 @@
 {
     "Enabled": true,
-    "needversion": "b2",
+    "VersionRequires": "b2",
     "WeaponList" : [
         {
             "WeaponName" : "[ :: 엔젤 블럭 :: ]",
@@ -163,7 +163,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 리스크 ]",
+            "WeaponName": "[ 각성 ] [ 리스크 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -171,7 +171,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 프런처 ]",
+            "WeaponName": "[ 각성 ] [ 프런처 ]",
             "maxlevel": 5,
             "changebylevel" : true,
             "LeftCoolDown" : [0.0],
@@ -179,7 +179,7 @@
             "InVillage" : true
         },
         {
-            "WeaponName": "[ 워터폴 ]",
+            "WeaponName": "[ 각성 ] [ 워터폴 ]",
             "maxlevel": 5,
             "changebylevel" : true,
             "LeftCoolDown" : [0.0],
@@ -187,11 +187,83 @@
             "InVillage" : true
         },
         {
-            "WeaponName": "[ 에눕시스 ]",
+            "WeaponName": "[ 각성 ] [ 에눕시스 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [50.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 라이오닉 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [12.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 볼케이노 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [14.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 스타블래스터 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [15.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 트리플스타 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [10.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 헤비스매셔 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [13.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 매직 콜리젼 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [13.0, 12.5, 12.0, 11.5, 11.0],
+            "InVillage" : true
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 데스페라도 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : true
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 셀프익스팅션 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [30.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 트램 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [21.0, 18.0, 15.0, 12.0, 9.0],
             "InVillage" : false
         }
     ]
