@@ -259,7 +259,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 각성 ] [ 트램 ]",
+            "WeaponName": "[ 각성 ] [ 트랩 ]",
             "maxlevel": 5,
             "changebylevel" : true,
             "LeftCoolDown" : [0.0],
