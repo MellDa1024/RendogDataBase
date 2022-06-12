@@ -107,7 +107,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 가디언 ]",
+            "WeaponName": "[ 각성 ] [ 가디언 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -115,7 +115,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 비숍 ]",
+            "WeaponName": "[ 각성 ] [ 비숍 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -123,7 +123,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 블랙홀 ]",
+            "WeaponName": "[ 각성 ] [ 블랙홀 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -131,7 +131,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 슈메티드 ]",
+            "WeaponName": "[ 각성 ] [ 슈메티드 ]",
             "maxlevel": 5,
             "changebylevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
@@ -139,7 +139,7 @@
             "InVillage" : true
         },
         {
-            "WeaponName": "[ 아르마 ]",
+            "WeaponName": "[ 각성 ] [ 아르마 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -147,7 +147,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 익스플로젼 ]",
+            "WeaponName": "[ 각성 ] [ 익스플로젼 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -155,7 +155,7 @@
             "InVillage" : true
         },
         {
-            "WeaponName": "[ 하포럼 ]",
+            "WeaponName": "[ 각성 ] [ 하포럼 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -187,7 +187,7 @@
             "InVillage" : true
         },
         {
-            "WeaponName": "[ 각성 ] [ 에눕시스 ]",
+            "WeaponName": "[ 각성 ] [ 에놉시스 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
@@ -267,7 +267,7 @@
             "InVillage" : false
         },
         {
-            "WeaponName": "[ 각성 ] [ 스타 런쳐 ]",
+            "WeaponName": "[ 각성 ] [ 스타 런처 ]",
             "maxlevel": 5,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
