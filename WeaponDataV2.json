@@ -305,6 +305,134 @@
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 흡혈귀 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [18.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 세크리트 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [17.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 브이미르 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [-1.0],
+            "RightCoolDown" : [14.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 블레이드 브랜디쉬 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [22.0, 19.0, 16.0, 13.0, 10.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 문라이트 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [7.0],
+            "RightCoolDown" : [8.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 다크로즈 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 흑월참 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [17.0],
+            "RightCoolDown" : [17.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 잔월효성 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [16.0, 13.0, 10.0, 7.0, 4.0],
+            "RightCoolDown" : [15.0, 15.0, 15.0, 15.0, 15.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 레이네드 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [18.0, 18.0, 18.0, 18.0, 18.0],
+            "RightCoolDown" : [28.0, 26.0, 24.0, 22.0, 20.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 디바우어 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [18.0, 18.0, 18.0, 18.0, 18.0],
+            "RightCoolDown" : [19.0, 18.0, 17.0, 16.0, 15.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 타라시스 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [20.0, 17.0, 14.0, 11.0, 8.0],
+            "RightCoolDown" : [30.0, 30.0, 30.0, 30.0, 30.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 스톰크러셔 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 에반리스트 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [28.0, 26.0, 24.0, 22.0, 20.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 네크로해머 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [19.0, 17.0, 15.0, 13.0, 10.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 하데스 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [15.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 혈계심판 :: ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [20.0],
+            "InVillage" : false
         }
     ]
 }
