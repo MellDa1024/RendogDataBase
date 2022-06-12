@@ -265,6 +265,46 @@
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [21.0, 18.0, 15.0, 12.0, 9.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 스타 런쳐 ]",
+            "maxlevel": 5,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [9.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 메테오 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 프로미넌트 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [16.0, 14.0, 12.0, 10.0, 8.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 사령소환 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [24.0, 22.0, 20.0, 18.0, 16.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 마그네트 ]",
+            "maxlevel": 5,
+            "changebylevel" : true,
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
+            "InVillage" : false
         }
     ]
 }
