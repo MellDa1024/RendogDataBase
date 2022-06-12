@@ -174,7 +174,7 @@
             "WeaponName": "[ 각성 ] [ 프런처 ]",
             "maxlevel": 5,
             "changebylevel" : true,
-            "LeftCoolDown" : [0.0],
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [6.0, 5.5, 5.0, 4.5, 2.0],
             "InVillage" : true
         },
@@ -182,7 +182,7 @@
             "WeaponName": "[ 각성 ] [ 워터폴 ]",
             "maxlevel": 5,
             "changebylevel" : true,
-            "LeftCoolDown" : [0.0],
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [13.0, 11.0, 9.0, 7.0, 4.0],
             "InVillage" : true
         },
@@ -238,7 +238,7 @@
             "WeaponName": "[ 각성 ] [ 매직 콜리젼 ]",
             "maxlevel": 5,
             "changebylevel" : true,
-            "LeftCoolDown" : [0.0],
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [13.0, 12.5, 12.0, 11.5, 11.0],
             "InVillage" : true
         },
@@ -262,7 +262,7 @@
             "WeaponName": "[ 각성 ] [ 트랩 ]",
             "maxlevel": 5,
             "changebylevel" : true,
-            "LeftCoolDown" : [0.0],
+            "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [21.0, 18.0, 15.0, 12.0, 9.0],
             "InVillage" : false
         }
