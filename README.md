@@ -35,7 +35,7 @@ RendogClient의 데이터베이스를 불러오는 Repo입니다.
 
 
 
-### 예시(Old) :
+### 예시(Old WeaponData) :
 ```Json
 {
   "WeaponName" : "[ 데모닉 ] [ +1 ]", //무기의 이름이 들어갑니다.
