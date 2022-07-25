@@ -793,6 +793,14 @@
             "LeftCoolDown" : [25.0],
             "RightCoolDown" : [25.0],
             "InVillage" : false
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 마리아의 종 :: ]",
+            "maxlevel": 1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [30.0],
+            "RightCoolDown" : [120.0],
+            "InVillage" : false
         }
     ]
 }
