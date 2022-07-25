@@ -1,6 +1,6 @@
 {
     "Enabled": true,
-    "VersionRequires": "b3",
+    "VersionRequires": "b4",
     "WeaponList" : [
         {
             "WeaponName" : "[ :: 엔젤 블럭 :: ]",
