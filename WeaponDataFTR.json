@@ -3,59 +3,59 @@
     "WeaponList" : [
         {
             "WeaponName" : "황룡의 피의 갈망",
-            "RightCoolDown" : 20.0,
+            "RightCoolDown" : 20.0
         },
         {
             "WeaponName" : "티탄의 부름",
-            "RightCoolDown" : 37.0,
+            "RightCoolDown" : 37.0
         },
         {
             "WeaponName" : "프로텍트 베리어",
-            "RightCoolDown" : 3.0,
+            "RightCoolDown" : 3.0
         },
         {
             "WeaponName" : "귀한 천년초",
-            "RightCoolDown" : 20.0,
+            "RightCoolDown" : 20.0
         },
         {
             "WeaponName" : "예술적인 학살",
-            "RightCoolDown" : 14.0,
+            "RightCoolDown" : 14.0
         },
         {
             "WeaponName" : "차원을 걷는 자",
-            "RightCoolDown" : 1.0,
+            "RightCoolDown" : 1.0
         },
         {
             "WeaponName" : "이프리트",
-            "RightCoolDown" : 35.0,
+            "RightCoolDown" : 35.0
         },
         {
             "WeaponName" : "영혼 해방",
-            "RightCoolDown" : 60.0,
+            "RightCoolDown" : 60.0
         },
         {
             "WeaponName" : "야스오",
-            "RightCoolDown" : 16.0,
+            "RightCoolDown" : 16.0
         },
         {
             "WeaponName" : "겨울의 속박",
-            "RightCoolDown" : 20.0,
+            "RightCoolDown" : 20.0
         },
         {
             "WeaponName" : "파이어 슈페리얼 핑거링",
-            "RightCoolDown" : 18.0,
+            "RightCoolDown" : 18.0
         },
         {
             "WeaponName" : "존야의 모래시계",
-            "RightCoolDown" : 55.0,
+            "RightCoolDown" : 55.0
         },
         {
             "WeaponName" : "비숍",
-            "RightCoolDown" : 30.0,
+            "RightCoolDown" : 30.0
         },
         {
             "WeaponName" : "그림자 일격",
-            "RightCoolDown" : 10.0,
+            "RightCoolDown" : 10.0
         }
     ]
 }
