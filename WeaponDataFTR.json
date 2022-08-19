@@ -59,7 +59,7 @@
         },
         {
             "WeaponName" : "Leap",
-            "RightCoolDown" : 10.0
+            "RightCoolDown" : 9.0
         }
     ]
 }
