@@ -56,6 +56,10 @@
         {
             "WeaponName" : "그림자 일격",
             "RightCoolDown" : 10.0
+        },
+        {
+            "WeaponName" : "Leap",
+            "RightCoolDown" : 10.0
         }
     ]
 }
