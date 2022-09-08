@@ -3,7 +3,7 @@
     "VersionRequires": "b4",
     "WeaponList" : [
         {
-            "WeaponName" : "[ :: 엔젤 블럭 :: ]",
+            "WeaponName" : "[ :: 엔젤블럭 :: ]",
             "maxlevel" : 1,
             "changebylevel" : false,
             "LeftCoolDown" : [0.0],
