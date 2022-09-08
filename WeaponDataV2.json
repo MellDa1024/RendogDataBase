@@ -795,6 +795,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "[ :: 네크로해머 :: ]",
+            "maxlevel": -1,
+            "changebylevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [10.0],
+            "InVillage" : false
+        },
+        {
             "WeaponName": "[ 한정 ] [ :: 마리아의 종 :: ]",
             "maxlevel": 1,
             "changebylevel" : false,
