@@ -11,10 +11,10 @@ RendogClient의 데이터베이스를 불러오는 Repo입니다.
 ```Json
 {
   "WeaponName": "< 초월 > [ :: 흑월참 :: ]", //강화 수치, MAX, SPECIAL을 뺀 무기의 이름
-  "maxlevel": 1, //최대 강화 수치(MAX 포함), SPECIAL은 -1
-  "changebylevel" : false, //강화 수치에 따라 쿨타임의 변경 여부, 바뀌면 true, 아니면 false
-  //changebylevel이 false일 경우 cooldown의 array len은 1로 고정,
-  //changebylevel이 true일 경우 cooldown의 array는 강화 단계에 따른 수치가 됩니다. (2번째 예제 참고)
+  "maxLevel": 1, //최대 강화 수치(MAX 포함), SPECIAL은 -1
+  "changeByLevel" : false, //강화 수치에 따라 쿨타임의 변경 여부, 바뀌면 true, 아니면 false
+  //changeByLevel이 false일 경우 cooldown의 array len은 1로 고정,
+  //changeByLevel이 true일 경우 cooldown의 array는 강화 단계에 따른 수치가 됩니다. (2번째 예제 참고)
   "LeftCoolDown" : [17.0], //좌클릭 스킬의 쿨타임, 
   "RightCoolDown" : [17.0], //우클릭 스킬의 쿨타임
   "InVillage" : false // //무기의 스킬이 마을에서 사용이 가능한지에 대한 여부입니다.
@@ -25,8 +25,8 @@ RendogClient의 데이터베이스를 불러오는 Repo입니다.
 ```json
 {
     "WeaponName": "[ 각성 ] [ :: 잔월효성 :: ]",
-    "maxlevel": 5,
-    "changebylevel" : true,
+    "maxLevel": 5,
+    "changeByLevel" : true,
     "LeftCoolDown" : [16.0, 13.0, 10.0, 7.0, 4.0],
     "RightCoolDown" : [15.0, 15.0, 15.0, 15.0, 15.0],
     "InVillage" : false

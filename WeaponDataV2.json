@@ -1,811 +1,811 @@
 {
     "Enabled": true,
-    "VersionRequires": "b4",
+    "VersionRequires": "b6",
     "WeaponList" : [
         {
             "WeaponName" : "[ :: 엔젤블럭 :: ]",
-            "maxlevel" : 1,
-            "changebylevel" : false,
+            "maxLevel" : 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
         },
         {
             "WeaponName" : "[ :: 마그마 블럭 :: ]",
-            "maxlevel" : 1,
-            "changebylevel" : false,
+            "maxLevel" : 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [12.0],
             "InVillage" : false
         },
         {
             "WeaponName" : "[ :: 아이스 블럭 :: ]",
-            "maxlevel" : 1,
-            "changebylevel" : false,
+            "maxLevel" : 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [6.5],
             "InVillage" : false
         },
         {
             "WeaponName" : "[ :: 스피드 블럭 :: ]",
-            "maxlevel" : 1,
-            "changebylevel" : false,
+            "maxLevel" : 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [12.0],
             "InVillage" : true
         },
         {
             "WeaponName" : "[ :: 소울 블럭 :: ]",
-            "maxlevel" : 1,
-            "changebylevel" : false,
+            "maxLevel" : 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 워리어 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
             "RightCoolDown" : [12.0, 11.8, 11.6, 11.4, 11.0, 10.8, 10.6, 10.4, 10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 섀도어 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3],
             "RightCoolDown" : [10.0, 9.8, 9.6, 9.4, 9.0, 8.8, 8.6, 8.4, 8.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 하이 매지션 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8, 1.8],
             "RightCoolDown" : [13.0, 12.8, 12.6, 12.4, 12.0, 11.8, 11.6, 11.4, 11.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 건마스터 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1],
             "RightCoolDown" : [12.0, 11.8, 11.6, 11.4, 11.0, 10.8, 10.6, 10.4, 10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 워로드 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6],
             "RightCoolDown" : [17.0, 16.8, 16.6, 16.4, 16.0, 15.8, 15.6, 15.4, 15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 데모닉 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
             "RightCoolDown" : [16.0, 15.8, 15.6, 15.4, 15.0, 14.8, 14.6, 14.4, 14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 세이지 매지션 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6],
             "RightCoolDown" : [17.0, 16.8, 16.6, 16.4, 16.0, 15.8, 15.6, 15.4, 15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 드래곤 서머너 ]",
-            "maxlevel": 9,
-            "changebylevel" : true,
+            "maxLevel": 9,
+            "changeByLevel" : true,
             "LeftCoolDown" : [1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3],
             "RightCoolDown" : [21.0, 20.8, 20.6, 20.4, 20.0, 19.8, 19.6, 19.4, 19.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 가디언 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [21.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 비숍 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 블랙홀 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 슈메티드 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [6.5, 5.5, 4.5, 3.5, 2.5],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 아르마 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 익스플로젼 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 하포럼 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 리스크 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 프런처 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [6.0, 5.5, 5.0, 4.5, 2.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 워터폴 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [13.0, 11.0, 9.0, 7.0, 4.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 에놉시스 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [50.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 라이오닉 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [12.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 볼케이노 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 스타블래스터 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 트리플스타 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 헤비스매셔 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [13.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 매직 콜리젼 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [13.0, 12.5, 12.0, 11.5, 11.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 데스페라도 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ 각성 ] [ 셀프익스팅션 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [30.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 트랩 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [21.0, 18.0, 15.0, 12.0, 9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 스타 런처 ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 메테오 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 프로미넌트 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [16.0, 14.0, 12.0, 10.0, 8.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 사령소환 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [24.0, 22.0, 20.0, 18.0, 16.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ 마그네트 ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 흡혈귀 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 세크리트 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 브이미르 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 블레이드 브랜디쉬 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [22.0, 19.0, 16.0, 13.0, 10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 문라이트 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [7.0],
             "RightCoolDown" : [8.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 다크로즈 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [26.0, 24.0, 22.0, 20.0, 18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 흑월참 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [17.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 잔월효성 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [16.0, 13.0, 10.0, 7.0, 4.0],
             "RightCoolDown" : [15.0, 15.0, 15.0, 15.0, 15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 레이네드 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [18.0, 18.0, 18.0, 18.0, 18.0],
             "RightCoolDown" : [28.0, 26.0, 24.0, 22.0, 20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 디바우어 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [18.0, 18.0, 18.0, 18.0, 18.0],
             "RightCoolDown" : [19.0, 18.0, 17.0, 16.0, 15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 각성 ] [ :: 타라시스 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [20.0, 17.0, 14.0, 11.0, 8.0],
             "RightCoolDown" : [30.0, 30.0, 30.0, 30.0, 30.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 스톰크러셔 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 에반리스트 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [28.0, 26.0, 24.0, 22.0, 20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 네크로해머 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : true,
+            "maxLevel": 5,
+            "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
             "RightCoolDown" : [19.0, 17.0, 15.0, 13.0, 10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 하데스 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 혈계심판 :: ]",
-            "maxlevel": 5,
-            "changebylevel" : false,
+            "maxLevel": 5,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 가디언 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [21.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 비숍 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 블랙홀 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 슈메티드 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [3.0],
             "RightCoolDown" : [2.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 아르마 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 익스플로젼 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 하포럼 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 리스크 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 프런처 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [2.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 워터폴 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [4.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 에놉시스 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [50.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 라이오닉 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [12.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 볼케이노 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [16.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 스타블래스터 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [15.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 트리플스타 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [12.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 헤비스매셔 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [13.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 매직 콜리젼 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [13.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 데스페라도 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : true
         },
         {
             "WeaponName": "< 초월 > [ 셀프익스팅션 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [30.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 트랩 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 스타 런처 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 메테오 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [19.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 프로미넌트 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [8.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ 사령소환 ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [16.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 흡혈귀 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 세크리트 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 브이미르 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 블레이드 브랜디쉬 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [9.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 문라이트 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [7.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 다크로즈 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [18.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 흑월참 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [17.0],
             "RightCoolDown" : [17.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 잔월효성 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [8.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 레이네드 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [18.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 디바우어 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [18.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 타라시스 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [8.0],
             "RightCoolDown" : [30.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 스톰크러셔 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 에반리스트 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 네크로해머 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 하데스 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 혈계심판 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "< 초월 > [ :: 트리플스타 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [14.0],
             "InVillage" : true
         },
         {
             "WeaponName": "[ :: 스톰크러셔 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 네크로해머 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 에반리스트 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 녹스 체인 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [25.0],
             "RightCoolDown" : [25.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ :: 네크로해머 :: ]",
-            "maxlevel": -1,
-            "changebylevel" : false,
+            "maxLevel": -1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [10.0],
             "InVillage" : false
         },
         {
             "WeaponName": "[ 한정 ] [ :: 마리아의 종 :: ]",
-            "maxlevel": 1,
-            "changebylevel" : false,
+            "maxLevel": 1,
+            "changeByLevel" : false,
             "LeftCoolDown" : [30.0],
             "RightCoolDown" : [120.0],
             "InVillage" : false
