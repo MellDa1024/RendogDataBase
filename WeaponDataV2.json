@@ -382,7 +382,7 @@
             "WeaponName": "[ 각성 ] [ :: 디바우어 :: ]",
             "maxLevel": 5,
             "changeByLevel" : true,
-            "LeftCoolDown" : [18.0, 18.0, 18.0, 18.0, 18.0],
+            "LeftCoolDown" : [17.0, 17.0, 17.0, 17.0, 17.0],
             "RightCoolDown" : [19.0, 18.0, 17.0, 16.0, 15.0],
             "InVillage" : false
         },
@@ -702,7 +702,7 @@
             "WeaponName": "< 초월 > [ :: 디바우어 :: ]",
             "maxLevel": 1,
             "changeByLevel" : false,
-            "LeftCoolDown" : [18.0],
+            "LeftCoolDown" : [17.0],
             "RightCoolDown" : [15.0],
             "InVillage" : false
         },
