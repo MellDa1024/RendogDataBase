@@ -43,6 +43,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "[ :: 스톤 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false
+        },
+        {
             "WeaponName": "[ 워리어 ]",
             "maxLevel": 9,
             "changeByLevel" : true,
@@ -810,7 +818,6 @@
             "RightCoolDown" : [120.0],
             "InVillage" : false
         },
-        
         {
             "WeaponName": "[ 잠수부 검 ]",
             "maxLevel": 1,
@@ -819,29 +826,11 @@
             "RightCoolDown": [6.0],
             "InVillage": true
         },
-
-        {
-            "WeaponName": "[ :: 스톤 블럭 :: ]",
-            "maxLevel": 1,
-            "changeByLevel": false,
-            "LeftCoolDown": [0.0],
-            "RightCoolDown": [14.0],
-            "InVillage": false
-        },
-
-        {
-            "WeaponName": "[ :: 디멘션 블럭 :: ]",
-            "maxLevel": 1,
-            "changeByLevel": false,
-            "LeftCoolDown": [0.0],
-            "RightCoolDown": [150.0],
-            "InVillage": true
-        },
         {
             "WeaponName": "[ 바운스! ]",
             "maxLevel": 1,
             "changeByLevel": false,
-            "LeftCoolDown": [0.0],	
+            "LeftCoolDown": [0.0],
             "RightCoolDown": [8.0],
             "InVillage": true
         },
