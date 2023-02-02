@@ -809,6 +809,49 @@
             "LeftCoolDown" : [30.0],
             "RightCoolDown" : [120.0],
             "InVillage" : false
+        },
+        
+        {
+            "WeaponName": "[ 잠수부 검 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [1.0],
+            "RightCoolDown": [6.0],
+            "InVillage": true
+        },
+
+        {
+            "WeaponName": "[ :: 스톤 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false
+        },
+
+        {
+            "WeaponName": "[ :: 디멘션 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [150.0],
+            "InVillage": true
+        },
+        {
+            "WeaponName": "[ 바운스! ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],	
+            "RightCoolDown": [8.0],
+            "InVillage": true
+        },
+        {
+            "WeaponName": "[ RD 1st ] [ :: 1주년 케잌 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [111.0],
+            "InVillage": false
         }
     ]
 }
