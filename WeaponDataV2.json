@@ -814,7 +814,7 @@
             "WeaponName": "[ 각성 ] [ :: 엔비스 :: ]",
             "maxLevel": -1,
             "changeByLevel" : false,
-            "LeftCoolDown" : [1.8],
+            "LeftCoolDown" : [2.0],
             "RightCoolDown" : [50.0],
             "InVillage" : false
         },
