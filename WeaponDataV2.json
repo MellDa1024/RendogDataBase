@@ -51,6 +51,14 @@
             "InVillage": false
         },
         {
+            "WeaponName": "[ :: 그래비티 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": false
+        },
+        {
             "WeaponName": "[ 워리어 ]",
             "maxLevel": 9,
             "changeByLevel" : true,
@@ -355,6 +363,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "[ 각성 ] [ :: 티지트 :: ]",
+            "maxLevel": 5,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [16.0],
+            "InVillage" : false
+        },
+        {
             "WeaponName": "[ 각성 ] [ :: 브이미르 :: ]",
             "maxLevel": 5,
             "changeByLevel" : false,
@@ -511,7 +527,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [2.0],
+            "RightCoolDown" : [1.7],
             "InVillage" : true
         },
         {
@@ -648,6 +664,14 @@
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
             "RightCoolDown" : [17.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 티지트 :: ]",
+            "maxLevel": 1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [16.0],
             "InVillage" : false
         },
         {
@@ -803,6 +827,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "[ :: 일라세아 :: ]",
+            "maxLevel": -1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [38.0],
+            "InVillage" : false
+        },
+        {
             "WeaponName": "[ :: 엔비스 :: ]",
             "maxLevel": -1,
             "changeByLevel" : false,
@@ -841,6 +873,14 @@
             "LeftCoolDown": [0.0],
             "RightCoolDown": [8.0],
             "InVillage": true
+        },
+        {
+            "WeaponName": "[ :: 야구 방망이 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [10.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false
         },
         {
             "WeaponName": "[ RD 1st ] [ :: 1주년 케잌 :: ]",
