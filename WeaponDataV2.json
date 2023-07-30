@@ -211,6 +211,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "[ 각성 ] [ 워터서퍼 ]",
+            "maxLevel": 5,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [10.0],
+            "InVillage" : true
+        },
+        {
             "WeaponName": "[ 각성 ] [ 라이오닉 ]",
             "maxLevel": 5,
             "changeByLevel" : false,
@@ -547,6 +555,14 @@
             "InVillage" : false
         },
         {
+            "WeaponName": "< 초월 > [ 워터서퍼 ]",
+            "maxLevel": 1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [0.0],
+            "RightCoolDown" : [10.0],
+            "InVillage" : true
+        },
+        {
             "WeaponName": "< 초월 > [ 라이오닉 ]",
             "maxLevel": 1,
             "changeByLevel" : false,
@@ -848,6 +864,14 @@
             "changeByLevel" : false,
             "LeftCoolDown" : [2.0],
             "RightCoolDown" : [50.0],
+            "InVillage" : false
+        },
+        {
+            "WeaponName": "[ :: 달타냥 :: ]",
+            "maxLevel": -1,
+            "changeByLevel" : false,
+            "LeftCoolDown" : [15.0],
+            "RightCoolDown" : [22.2],
             "InVillage" : false
         },
         {
