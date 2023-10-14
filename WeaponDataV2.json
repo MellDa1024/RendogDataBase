@@ -7,7 +7,7 @@
             "maxLevel" : 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [19.0],
+            "RightCoolDown" : [22.0],
             "InVillage" : false
         },
         {
@@ -127,7 +127,7 @@
             "maxLevel": 5,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [21.0],
+            "RightCoolDown" : [25.0],
             "InVillage" : false
         },
         {
@@ -159,7 +159,7 @@
             "maxLevel": 5,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [10.0],
+            "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
@@ -231,7 +231,7 @@
             "maxLevel": 5,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [14.0],
+            "RightCoolDown" : [18.0],
             "InVillage" : false
         },
         {
@@ -271,7 +271,7 @@
             "maxLevel": 5,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [20.0],
+            "RightCoolDown" : [25.0],
             "InVillage" : true
         },
         {
@@ -319,7 +319,7 @@
             "maxLevel": 5,
             "changeByLevel" : true,
             "LeftCoolDown" : [0.0, 0.0, 0.0, 0.0, 0.0],
-            "RightCoolDown" : [24.0, 22.0, 20.0, 18.0, 16.0],
+            "RightCoolDown" : [31.0, 29.0, 27.0, 25.0, 23.0],
             "InVillage" : false
         },
         {
@@ -375,7 +375,7 @@
             "maxLevel": 5,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [16.0],
+            "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
@@ -471,7 +471,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [21.0],
+            "RightCoolDown" : [25.0],
             "InVillage" : false
         },
         {
@@ -503,7 +503,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [10.0],
+            "RightCoolDown" : [14.0],
             "InVillage" : false
         },
         {
@@ -615,7 +615,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [20.0],
+            "RightCoolDown" : [25.0],
             "InVillage" : true
         },
         {
@@ -663,7 +663,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [17.0],
+            "RightCoolDown" : [23.0],
             "InVillage" : false
         },
         {
@@ -687,7 +687,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [16.0],
+            "RightCoolDown" : [15.0],
             "InVillage" : false
         },
         {
@@ -719,7 +719,7 @@
             "maxLevel": 1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [18.0],
+            "RightCoolDown" : [20.0],
             "InVillage" : false
         },
         {
@@ -807,7 +807,7 @@
             "maxLevel": -1,
             "changeByLevel" : false,
             "LeftCoolDown" : [0.0],
-            "RightCoolDown" : [15.0],
+            "RightCoolDown" : [18.0],
             "InVillage" : true
         },
         {
