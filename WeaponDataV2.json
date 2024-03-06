@@ -937,6 +937,46 @@
             "LeftCoolDown": [0.0],
             "RightCoolDown": [111.0],
             "InVillage": true
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 프리지트 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 스노우 볼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 스노위 블럭 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 마녀의 수정 구슬 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false
+        },
+        {
+            "WeaponName": "[ :: 크리스마스 막대기 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.4],
+            "RightCoolDown": [8.0],
+            "InVillage": false
         }
     ]
 }
