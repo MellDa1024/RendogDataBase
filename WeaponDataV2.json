@@ -977,6 +977,14 @@
             "LeftCoolDown": [0.4],
             "RightCoolDown": [8.0],
             "InVillage": false
+        },
+        {
+            "WeaponName": "[ S ] 자가부양동력장치 ▪ «한정»",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": true
         }
     ]
 }
