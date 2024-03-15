@@ -931,6 +931,22 @@
             "InVillage": false
         },
         {
+            "WeaponName": "[ 한정 ] [ ANNIVERSARY BATTLE AXE ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [5.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false
+        },
+        {
+            "WeaponName": "[ 한정 ] [ MellDa's Melted Wand ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false
+        },
+        {
             "WeaponName": "[ RD 3rd ] [ :: 3주년 케잌 :: ]",
             "maxLevel": 1,
             "changeByLevel": false,
