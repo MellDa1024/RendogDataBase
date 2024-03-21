@@ -995,7 +995,7 @@
             "InVillage": false
         },
         {
-            "WeaponName": "< 초월 > [ 명계의 낫 ]",
+            "WeaponName": "< 초월 > [ <> 명계의 낫 <> ]",
             "maxLevel": -1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
