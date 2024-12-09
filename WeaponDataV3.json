@@ -1,0 +1,1896 @@
+{
+    "Enabled": true,
+    "VersionRequires": "Final",
+    "WeaponList" : [
+        {
+            "WeaponName" : "[ :: 디멘션 블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [150.0],
+            "InVillage": true,
+            "CoolDownGroup": "dimension_block"
+        },
+        {
+            "WeaponName" : "[ :: 엔젤블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [22.0],
+            "InVillage": false,
+            "CoolDownGroup": "angel_block"
+        },
+        {
+            "WeaponName" : "[ :: 마그마 블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "magma_block"
+        },
+        {
+            "WeaponName" : "[ :: 아이스 블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [6.5],
+            "InVillage": false,
+            "CoolDownGroup": "ice_block"
+        },
+        {
+            "WeaponName" : "[ :: 스피드 블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": true,
+            "CoolDownGroup": "speed_block"
+        },
+        {
+            "WeaponName" : "[ :: 소울 블럭 :: ]",
+            "maxLevel" : 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "soul_block"
+        },
+        {
+            "WeaponName": "[ :: 스톤 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "stone_block"
+        },
+        {
+            "WeaponName": "[ :: 그래비티 블럭 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "gravity_block"
+        },
+        {
+            "WeaponName": "[ 워리어 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
+            "RightCoolDown": [12.0, 11.8, 11.6, 11.4, 11.0, 10.8, 10.6, 10.4, 10.0],
+            "InVillage": false,
+            "CoolDownGroup": "knight"
+        },
+        {
+            "WeaponName": "[ 섀도어 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3],
+            "RightCoolDown": [10.0, 9.8, 9.6, 9.4, 9.0, 8.8, 8.6, 8.4, 8.0],
+            "InVillage": false,
+            "CoolDownGroup": "theif"
+        },
+        {
+            "WeaponName": "[ 하이 매지션 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6],
+            "RightCoolDown": [13.0, 12.8, 12.6, 12.4, 12.0, 11.8, 11.6, 11.4, 11.0],
+            "InVillage": false,
+            "CoolDownGroup": "wizard"
+        },
+        {
+            "WeaponName": "[ 건마스터 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1],
+            "RightCoolDown": [12.0, 11.8, 11.6, 11.4, 11.0, 10.8, 10.6, 10.4, 10.0],
+            "InVillage": false,
+            "CoolDownGroup": "archor"
+        },
+        {
+            "WeaponName": "[ 워로드 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6, 1.6],
+            "RightCoolDown": [17.0, 16.8, 16.6, 16.4, 16.0, 15.8, 15.6, 15.4, 15.0],
+            "InVillage": false,
+            "CoolDownGroup": "knight"
+        },
+        {
+            "WeaponName": "[ 데모닉 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
+            "RightCoolDown": [16.0, 15.8, 15.6, 15.4, 15.0, 14.8, 14.6, 14.4, 14.0],
+            "InVillage": false,
+            "CoolDownGroup": "theif"
+        },
+        {
+            "WeaponName": "[ 세이지 매지션 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5, 1.5],
+            "RightCoolDown": [17.0, 16.8, 16.6, 16.4, 16.0, 15.8, 15.6, 15.4, 15.0],
+            "InVillage": false,
+            "CoolDownGroup": "wizard"
+        },
+        {
+            "WeaponName": "[ 드래곤 서머너 ]",
+            "maxLevel": 9,
+            "changeByLevel": true,
+            "LeftCoolDown": [1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3],
+            "RightCoolDown": [19.0, 18.8, 18.6, 18.4, 18.0, 17.8, 17.6, 17.4, 17.0],
+            "InVillage": false,
+            "CoolDownGroup": "archor"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 광신의 기사 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [7.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "knight_6th_1"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 난세의 용사 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [5.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "knight_6th_2"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 흑염의 검사 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [5.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "knight_6th_3"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 혈마 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "thief_6th_1"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 음영 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "thief_6th_2"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 고독 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [4.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "thief_6th_3"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 카오린 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "wizard_6th_1"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 아토스 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [1.5],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "wizard_6th_2"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 아포칼립스 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "wizard_6th_3"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 라움 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "archor_6th_1"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 셀레스티안 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "archor_6th_2"
+        },
+        {
+            "WeaponName": "< 6차 > [ :: 마탄의 사수 :: ]",
+            "maxLevel": 9,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [24.0],
+            "InVillage": false,
+            "CoolDownGroup": "archor_6th_3"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 가디언 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "guardian"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 리스크 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "risk"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 블랙홀 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "black_hole"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 비숍 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "bishop"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 슈메티드 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [6.5, 5.5, 4.5, 3.5, 2.5],
+            "InVillage": true,
+            "CoolDownGroup": "schmetted"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 아르마 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "arma"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 에놉시스 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [50.0],
+            "InVillage": false,
+            "CoolDownGroup": "enobsis"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 워터노바 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false,
+            "CoolDownGroup": "water_nova"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 워터서퍼 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.5],
+            "InVillage": true,
+            "CoolDownGroup": "water_surfer"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 워터폴 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [13.0, 11.0, 9.0, 7.0, 4.0],
+            "InVillage": true,
+            "CoolDownGroup": "water_fall"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 익스플로젼 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": true,
+            "CoolDownGroup": "explosion"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 프런처 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [6.0, 5.5, 5.0, 4.5, 2.0],
+            "InVillage": true,
+            "CoolDownGroup": "fruncher"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 하포럼 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "haforum"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 네크로해머 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [19.0, 17.0, 15.0, 13.0, 10.0],
+            "InVillage": false,
+            "CoolDownGroup": "necro_hammer"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 데스페라도 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": true,
+            "CoolDownGroup": "desperado"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 라이오닉 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [11.0],
+            "InVillage": false,
+            "CoolDownGroup": "lionic"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 마그네트 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [26.0, 24.0, 22.0, 20.0, 18.0],
+            "InVillage": false,
+            "CoolDownGroup": "magnet"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 매직 콜리젼 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [13.0, 12.5, 12.0, 11.5, 11.0],
+            "InVillage": true,
+            "CoolDownGroup": "magic_collision"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 메테오 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [26.0, 24.0, 22.0, 20.0, 18.0],
+            "InVillage": false,
+            "CoolDownGroup": "meteor"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 볼케이노 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "volcano"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 사령소환 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [31.0, 29.0, 27.0, 25.0, 22.0],
+            "InVillage": false,
+            "CoolDownGroup": "necromancy"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 셀프익스팅션 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "self_extinction"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 스타 런처 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "star_launcher"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 스타블래스터 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "star_blaster"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 스톰크러셔 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "storm_crusher"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 에반리스트 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [24.0, 22.0, 20.0, 18.0, 16.0],
+            "InVillage": false,
+            "CoolDownGroup": "evanlist"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 트랩 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [18.0, 14.0, 12.0, 10.0, 8.5],
+            "InVillage": false,
+            "CoolDownGroup": "trap"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 트리플스타 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "triple_star"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 프로미넌트 ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [17.0, 15.0, 13.0, 12.0, 10.0],
+            "InVillage": false,
+            "CoolDownGroup": "prominunt"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 헤비스매셔 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "heavy_smasher"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 데모니오 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "demonio"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 브이미르 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.47],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "vimir"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 블레이드 브랜디쉬 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [17.0, 15.0, 13.0, 11.0, 9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blade_brandish"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 세크리트 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "secret"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 티지트 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "tigit"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 하데스 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "hades"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 트론 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [14.0, 14.0, 14.0, 14.0, 14.0],
+            "RightCoolDown": [32.0, 29.0, 26.0, 23.0, 20.0],
+            "InVillage": false,
+            "CoolDownGroup": "tron"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 혈계심판 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "bloody_judgement"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 흑월참 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [14.0],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_moon_slash"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 다크로즈 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "RightCoolDown": [24.0, 23.0, 22.0, 21.0, 20.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_rose"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 문라이트 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [7.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 주벌청선 :: ]",
+            "maxLevel": 5,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blue_fan"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 트리아이나 :: ]",
+            "maxLevel": 5,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "triaina"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 퍼니스보 :: ]",
+            "maxLevel": 5,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "funisbo"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 황금책형 :: ]",
+            "maxLevel": 5,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "golden_crux"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 흡혈귀 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "vampire"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 디바우어 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [17.0, 17.0, 17.0, 17.0, 17.0],
+            "RightCoolDown": [19.0, 18.0, 17.0, 16.0, 15.0],
+            "InVillage": false,
+            "CoolDownGroup": "divaour"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 잔월효성 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [16.0, 13.0, 10.0, 7.0, 4.0],
+            "RightCoolDown": [14.0, 14.0, 14.0, 14.0, 14.0],
+            "InVillage": false,
+            "CoolDownGroup": "fading_moon"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 레이네드 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [18.0, 18.0, 18.0, 18.0, 18.0],
+            "RightCoolDown": [28.0, 26.0, 24.0, 22.0, 20.0],
+            "InVillage": false,
+            "CoolDownGroup": "rayned"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 타라시스 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [20.0, 17.0, 14.0, 11.0, 8.0],
+            "RightCoolDown": [30.0, 30.0, 30.0, 30.0, 30.0],
+            "InVillage": false,
+            "CoolDownGroup": "tarasis"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 르나데산 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [21.0, 13.0, 13.0, 9.0, 5.0],
+            "RightCoolDown": [22.0, 22.0, 22.0, 22.0, 22.0],
+            "InVillage": false,
+            "CoolDownGroup": "renadesan"
+        },
+        {
+            "WeaponName": "< 초월 > [ 가디언 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "guardian"
+        },
+        {
+            "WeaponName": "< 초월 > [ 리스크 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "risk"
+        },
+        {
+            "WeaponName": "< 초월 > [ 블랙홀 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "black_hole"
+        },
+        {
+            "WeaponName": "< 초월 > [ 비숍 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "bishop"
+        },
+        {
+            "WeaponName": "< 초월 > [ 슈메티드 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [2.0],
+            "InVillage": true,
+            "CoolDownGroup": "schmetted"
+        },
+        {
+            "WeaponName": "< 초월 > [ 아르마 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "arma"
+        },
+        {
+            "WeaponName": "< 초월 > [ 에놉시스 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [50.0],
+            "InVillage": false,
+            "CoolDownGroup": "enobsis"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터노바 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false,
+            "CoolDownGroup": "water_nova"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터서퍼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.5],
+            "InVillage": true,
+            "CoolDownGroup": "water_surfer"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터폴 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [4.0],
+            "InVillage": true,
+            "CoolDownGroup": "water_fall"
+        },
+        {
+            "WeaponName": "< 초월 > [ 익스플로젼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": true,
+            "CoolDownGroup": "explosion"
+        },
+        {
+            "WeaponName": "< 초월 > [ 프런처 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [1.7],
+            "InVillage": true,
+            "CoolDownGroup": "fruncher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 하포럼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "haforum"
+        },
+        {
+            "WeaponName": "< 초월 > [ 네크로해머 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "necro_hammer"
+        },
+        {
+            "WeaponName": "< 초월 > [ 데스페라도 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": true,
+            "CoolDownGroup": "desperado"
+        },
+        {
+            "WeaponName": "< 초월 > [ 라이오닉 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [11.0],
+            "InVillage": false,
+            "CoolDownGroup": "lionic"
+        },
+        {
+            "WeaponName": "< 초월 > [ 마그네트 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "magnet"
+        },
+        {
+            "WeaponName": "< 초월 > [ 매직 콜리젼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [13.0],
+            "InVillage": true,
+            "CoolDownGroup": "magic_collision"
+        },
+        {
+            "WeaponName": "< 초월 > [ 메테오 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "meteor"
+        },
+        {
+            "WeaponName": "< 초월 > [ 볼케이노 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "volcano"
+        },
+        {
+            "WeaponName": "< 초월 > [ 사령소환 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [23.0],
+            "InVillage": false,
+            "CoolDownGroup": "necromancy"
+        },
+        {
+            "WeaponName": "< 초월 > [ 셀프익스팅션 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "self_extinction"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스타 런처 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "star_launcher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스타블래스터 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": true,
+            "CoolDownGroup": "star_blaster"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스톰크러셔 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "storm_crusher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 에반리스트 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "evanlist"
+        },
+        {
+            "WeaponName": "< 초월 > [ 트랩 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "trap"
+        },
+        {
+            "WeaponName": "< 초월 > [ 트리플스타 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "triple_star"
+        },
+        {
+            "WeaponName": "< 초월 > [ 프로미넌트 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "prominunt"
+        },
+        {
+            "WeaponName": "< 초월 > [ 헤비스매셔 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "heavy_smasher"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 데모니오 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "demonio"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 브이미르 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.47],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "vimir"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 블레이드 브랜디쉬 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blade_brandish"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 세크리트 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "secret"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 티지트 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "tigit"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 하데스 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "hades"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트론 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [14.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "tron"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 혈계심판 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [12.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "bloody_judgement"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 흑월참 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [16.0],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_moon_slash"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 다크로즈 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_rose"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 문라이트 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [7.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 주벌청선 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blue_fan"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트리아이나 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "triaina"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 퍼니스보 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "funisbo"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 황금책형 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "golden_crux"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 흡혈귀 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "vampire"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 디바우어 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "divaour"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 잔월효성 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "fading_moon"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 레이네드 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [18.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "rayned"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 타라시스 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "tarasis"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 르나데산 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [1.0],
+            "RightCoolDown": [22.0],
+            "InVillage": false,
+            "CoolDownGroup": "renadesan"
+        },
+        {
+            "WeaponName": "< 초월 > [ 가디언 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "guardian"
+        },
+        {
+            "WeaponName": "< 초월 > [ 리스크 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "risk"
+        },
+        {
+            "WeaponName": "< 초월 > [ 블랙홀 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "black_hole"
+        },
+        {
+            "WeaponName": "< 초월 > [ 비숍 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "bishop"
+        },
+        {
+            "WeaponName": "< 초월 > [ 슈메티드 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [2.0],
+            "InVillage": true,
+            "CoolDownGroup": "schmetted"
+        },
+        {
+            "WeaponName": "< 초월 > [ 아르마 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "arma"
+        },
+        {
+            "WeaponName": "< 초월 > [ 에놉시스 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [50.0],
+            "InVillage": false,
+            "CoolDownGroup": "enobsis"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터노바 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false,
+            "CoolDownGroup": "water_nova"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터서퍼 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.5],
+            "InVillage": true,
+            "CoolDownGroup": "water_surfer"
+        },
+        {
+            "WeaponName": "< 초월 > [ 워터폴 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [4.0],
+            "InVillage": true,
+            "CoolDownGroup": "water_fall"
+        },
+        {
+            "WeaponName": "< 초월 > [ 익스플로젼 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": true,
+            "CoolDownGroup": "explosion"
+        },
+        {
+            "WeaponName": "< 초월 > [ 프런처 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [1.7],
+            "InVillage": true,
+            "CoolDownGroup": "fruncher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 하포럼 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "haforum"
+        },
+        {
+            "WeaponName": "< 초월 > [ 네크로해머 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "necro_hammer"
+        },
+        {
+            "WeaponName": "< 초월 > [ 데스페라도 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": true,
+            "CoolDownGroup": "desperado"
+        },
+        {
+            "WeaponName": "< 초월 > [ 라이오닉 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [11.0],
+            "InVillage": false,
+            "CoolDownGroup": "lionic"
+        },
+        {
+            "WeaponName": "< 초월 > [ 마그네트 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "magnet"
+        },
+        {
+            "WeaponName": "< 초월 > [ 매직 콜리젼 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [13.0],
+            "InVillage": true,
+            "CoolDownGroup": "magic_collision"
+        },
+        {
+            "WeaponName": "< 초월 > [ 메테오 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "meteor"
+        },
+        {
+            "WeaponName": "< 초월 > [ 볼케이노 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "volcano"
+        },
+        {
+            "WeaponName": "< 초월 > [ 사령소환 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [23.0],
+            "InVillage": false,
+            "CoolDownGroup": "necromancy"
+        },
+        {
+            "WeaponName": "< 초월 > [ 셀프익스팅션 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "self_extinction"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스타 런처 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "star_launcher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스타블래스터 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": true,
+            "CoolDownGroup": "star_blaster"
+        },
+        {
+            "WeaponName": "< 초월 > [ 스톰크러셔 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "storm_crusher"
+        },
+        {
+            "WeaponName": "< 초월 > [ 에반리스트 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "evanlist"
+        },
+        {
+            "WeaponName": "< 초월 > [ 트랩 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "trap"
+        },
+        {
+            "WeaponName": "< 초월 > [ 트리플스타 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "triple_star"
+        },
+        {
+            "WeaponName": "< 초월 > [ 프로미넌트 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "prominunt"
+        },
+        {
+            "WeaponName": "< 초월 > [ 헤비스매셔 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "heavy_smasher"
+        },
+        {
+            "WeaponName": "[ :: 가디언 쉴드 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [300.0],
+            "InVillage": false,
+            "CoolDownGroup": "guardian_shield"
+        },
+        {
+            "WeaponName": "[ :: 녹스 체인 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [25.0],
+            "RightCoolDown": [25.0],
+            "InVillage": false,
+            "CoolDownGroup": "nox_chain"
+        },
+        {
+            "WeaponName": "[ :: 일라세아 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [38.0],
+            "InVillage": false,
+            "CoolDownGroup": "illasea"
+        },
+        {
+            "WeaponName": "[ :: 엔비스 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [11.0],
+            "InVillage": false,
+            "CoolDownGroup": "enbis"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 엔비스 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [50.0],
+            "InVillage": false,
+            "CoolDownGroup": "enbis"
+        },
+        {
+            "WeaponName": "[ :: 달타냥 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [15.0],
+            "RightCoolDown": [22.0],
+            "InVillage": false,
+            "CoolDownGroup": "moon_cat"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트리플스타 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": true,
+            "CoolDownGroup": "triple_star_special"
+        },
+        {
+            "WeaponName": "< 초월 > [ <> 명계의 낫 <> ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "scythe_of_underworld"
+        },
+        {
+            "WeaponName": "[ :: 네크로해머 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [10.0],
+            "InVillage": false,
+            "CoolDownGroup": "necro_hammer"
+        },
+        {
+            "WeaponName": "[ :: 스톰크러셔 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "storm_crusher"
+        },
+        {
+            "WeaponName": "[ :: 에반리스트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "evanlist"
+        },
+        {
+            "WeaponName": "[ 잠수부 검 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [1.0],
+            "RightCoolDown": [6.0],
+            "InVillage": true,
+            "CoolDownGroup": "afk_sword"
+        },
+        {
+            "WeaponName": "[ 바운스! ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "InVillage": true,
+            "CoolDownGroup": "bounce"
+        },
+        {
+            "WeaponName": "[ :: 야구 방망이 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [10.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false,
+            "CoolDownGroup": "baseball_bat"
+        },
+        {
+            "WeaponName": "[ RD 1st ] [ :: 1주년 케잌 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.0],
+            "RightCoolDown": [111.0],
+            "InVillage": false,
+            "CoolDownGroup": "cake_1st"
+        },
+        {
+            "WeaponName": "[ RD 3rd ] [ :: 3주년 케잌 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [111.0],
+            "InVillage": false,
+            "CoolDownGroup": "cake_3rd"
+        },
+        {
+            "WeaponName": "[ RD 4th ] [ :: 4주년 케잌 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [444.0],
+            "InVillage": false,
+            "CoolDownGroup": "cake_4th"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ RENDOG FIRST SWORD ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "rendog_first_sword"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ Faded RENDOG FIRST SWORD ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "rendog_first_sword"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ ANCHOVY FIRST SWORD ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [5.0],
+            "InVillage": false,
+            "CoolDownGroup": "anchovy_first_sword"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ ANNIVERSARY BATTLE AXE ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [5.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "anniversary_battle_axe"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ MellDa's Melted Wand ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "mellda_melted_wand"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 4EVER SPACE ROCKET ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "fourever_space_rocket"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ ANNIVERSARY MAGIC STAFF ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [5.0],
+            "InVillage": false,
+            "CoolDownGroup": "anniversary_magic_staff"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 마리아의 종 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [30.0],
+            "RightCoolDown": [120.0],
+            "InVillage": false,
+            "CoolDownGroup": "maria_bell"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 산타의 종 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": false,
+            "CoolDownGroup": "santa_bell"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 프리지트 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "freezit"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 스노우 볼 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [12.0],
+            "InVillage": false,
+            "CoolDownGroup": "snow_ball"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 스노위 블럭 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "snowy_block"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 마녀의 수정 구슬 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "crystal_bead"
+        },
+        {
+            "WeaponName": "[ :: 크리스마스 막대기 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.4],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "christmas_stick"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 눈사람의 당근 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [6.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "snowman_carrot"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 산타의 배달용 썰매 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [25.0],
+            "InVillage": true,
+            "CoolDownGroup": "santa_sledge"
+        },
+        {
+            "WeaponName": "[ S ] 자가부양동력장치 ▪ «한정»",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": true,
+            "CoolDownGroup": "levitation_device"
+        },
+        {
+            "WeaponName": "[ 한정 ] :: 십이조 에어로 키네시스 ::",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "aero_kinesis"
+        },
+        {
+            "WeaponName": "(Ancient) [ 포레스트 액스 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.5],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+        {
+            "WeaponName": "(Ancient) [ 에리모스 보우 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.5],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+        {
+            "WeaponName": "(Ancient) [ 서리의 지팡이 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [2.3],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+        {
+            "WeaponName": "(Ancient) [ 림피안토 해머 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+		{
+            "WeaponName": "(Ancient) [ 스토니아 완드 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [6.5],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+        {
+            "WeaponName": "(Ancient) [ 바텐스바드 ] [ SPECIAL ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [1.5],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "ancient"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ Summer Water Gun ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [6.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "summer_water_gun"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 해변서퍼 :: ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "beach_surfer"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 고장난 아이스박스 ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "broken_icebox"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ :: 워터풀 :: ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "water_pool"
+        },
+        {
+            "WeaponName": "[ :: 일라세아 파이 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [60.0],
+            "InVillage": false,
+            "CoolDownGroup": "illasea_pie"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 석탄 가루 ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [3.0],
+            "InVillage": false,
+            "CoolDownGroup": "coal_powder"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 날카로운 곡괭이 ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [5.0],
+            "InVillage": false,
+            "CoolDownGroup": "sharp_pickaxe"
+        },
+        {
+            "WeaponName": "[ 한정 ] [ 도루묵의 황금 드릴 ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "golden_drill"
+        },
+        {
+            "WeaponName": "[ 한정 ] < RENDOG OCEAN SWORD > [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [12.0],
+            "RightCoolDown": [0.0],
+            "InVillage": false,
+            "CoolDownGroup": "rendog_ocean_sword"
+        }
+    ]
+}
