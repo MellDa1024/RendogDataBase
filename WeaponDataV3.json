@@ -1,6 +1,6 @@
 {
     "Enabled": true,
-    "VersionRequires": "Final",
+    "AvailableVersions": ["beta", "final"],
     "WeaponList" : [
         {
             "WeaponName" : "[ :: 디멘션 블럭 :: ]",
