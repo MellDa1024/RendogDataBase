@@ -669,6 +669,69 @@
             "CoolDownGroup": "vampire"
         },
         {
+            "WeaponName": "[ 각성 ] [ :: 다크로즈 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": true,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_rose"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 문라이트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [7.0],
+            "RightCoolDown": [8.0],
+            "InVillage": false,
+            "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 주벌청선 :: ]",
+            "maxLevel": -1,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blue_fan"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 트리아이나 :: ]",
+            "maxLevel": -1,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "triaina"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 퍼니스보 :: ]",
+            "maxLevel": -1,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "funisbo"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 황금책형 :: ]",
+            "maxLevel": -1,
+            "changeByLevel":false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "golden_crux"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 흡혈귀 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "vampire"
+        },
+        {
             "WeaponName": "[ 각성 ] [ :: 디바우어 :: ]",
             "maxLevel": 5,
             "changeByLevel": true,
