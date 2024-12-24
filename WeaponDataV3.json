@@ -1803,8 +1803,8 @@
             "CoolDownGroup": "ancient"
         },
         {
-            "WeaponName": "(Ancient) [ 바텐스바드 ] [ SPECIAL ]",
-            "maxLevel": 1,
+            "WeaponName": "(Ancient) [ 바텐스바드 ]",
+            "maxLevel": -1,
             "changeByLevel": false,
             "LeftCoolDown": [1.5],
             "RightCoolDown": [19.0],
