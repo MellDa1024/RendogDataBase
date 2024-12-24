@@ -626,7 +626,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 주벌청선 :: ]",
             "maxLevel": 5,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [9.0],
             "InVillage": false,
@@ -635,7 +635,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 트리아이나 :: ]",
             "maxLevel": 5,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [21.0],
             "InVillage": false,
@@ -644,7 +644,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 퍼니스보 :: ]",
             "maxLevel": 5,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [20.0],
             "InVillage": false,
@@ -653,7 +653,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 황금책형 :: ]",
             "maxLevel": 5,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [18.0],
             "InVillage": false,
@@ -671,7 +671,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 다크로즈 :: ]",
             "maxLevel": -1,
-            "changeByLevel": true,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [20.0],
             "InVillage": false,
@@ -689,7 +689,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 주벌청선 :: ]",
             "maxLevel": -1,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [9.0],
             "InVillage": false,
@@ -698,7 +698,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 트리아이나 :: ]",
             "maxLevel": -1,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [21.0],
             "InVillage": false,
@@ -707,7 +707,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 퍼니스보 :: ]",
             "maxLevel": -1,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [20.0],
             "InVillage": false,
@@ -716,7 +716,7 @@
         {
             "WeaponName": "[ 각성 ] [ :: 황금책형 :: ]",
             "maxLevel": -1,
-            "changeByLevel":false,
+            "changeByLevel": false,
             "LeftCoolDown": [0.0],
             "RightCoolDown": [18.0],
             "InVillage": false,
