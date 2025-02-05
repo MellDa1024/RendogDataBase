@@ -196,7 +196,7 @@
             "maxLevel": 9,
             "changeByLevel": false,
             "LeftCoolDown": [4.0],
-            "RightCoolDown": [12.0],
+            "RightCoolDown": [14.0],
             "InVillage": false,
             "CoolDownGroup": "thief_6th_3"
         },
