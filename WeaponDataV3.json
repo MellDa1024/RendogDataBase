@@ -1596,7 +1596,7 @@
             "CoolDownGroup": "storm_crusher"
         },
         {
-            "WeaponName": "[ :: 에반리스트 :: ]",
+            "WeaponName": "[ 에반리스트 ]",
             "maxLevel": -1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
