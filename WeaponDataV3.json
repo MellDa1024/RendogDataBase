@@ -108,7 +108,7 @@
             "LeftCoolDown": [1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1],
             "RightCoolDown": [12.0, 11.8, 11.6, 11.4, 11.0, 10.8, 10.6, 10.4, 10.0],
             "InVillage": false,
-            "CoolDownGroup": "archor"
+            "CoolDownGroup": "archer"
         },
         {
             "WeaponName": "[ 워로드 ]",
@@ -144,7 +144,7 @@
             "LeftCoolDown": [1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3],
             "RightCoolDown": [19.0, 18.8, 18.6, 18.4, 18.0, 17.8, 17.6, 17.4, 17.0],
             "InVillage": false,
-            "CoolDownGroup": "archor"
+            "CoolDownGroup": "archer"
         },
         {
             "WeaponName": "< 6차 > [ :: 광신의 기사 :: ]",
@@ -234,7 +234,7 @@
             "LeftCoolDown": [2.0],
             "RightCoolDown": [18.0],
             "InVillage": false,
-            "CoolDownGroup": "archor_6th_1"
+            "CoolDownGroup": "archer_6th_1"
         },
         {
             "WeaponName": "< 6차 > [ :: 셀레스티안 :: ]",
@@ -243,7 +243,7 @@
             "LeftCoolDown": [3.0],
             "RightCoolDown": [18.0],
             "InVillage": false,
-            "CoolDownGroup": "archor_6th_2"
+            "CoolDownGroup": "archer_6th_2"
         },
         {
             "WeaponName": "< 6차 > [ :: 마탄의 사수 :: ]",
@@ -252,7 +252,7 @@
             "LeftCoolDown": [2.0],
             "RightCoolDown": [24.0],
             "InVillage": false,
-            "CoolDownGroup": "archor_6th_3"
+            "CoolDownGroup": "archer_6th_3"
         },
         {
             "WeaponName": "[ 각성 ] [ 가디언 ]",
