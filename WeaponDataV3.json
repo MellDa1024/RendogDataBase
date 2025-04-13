@@ -249,8 +249,8 @@
             "WeaponName": "< 6차 > [ :: 마탄의 사수 :: ]",
             "maxLevel": 9,
             "changeByLevel": false,
-            "LeftCoolDown": [2.0],
-            "RightCoolDown": [24.0],
+            "LeftCoolDown": [1.9],
+            "RightCoolDown": [18.0],
             "InVillage": false,
             "CoolDownGroup": "archer_6th_3"
         },
