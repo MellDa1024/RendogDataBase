@@ -771,7 +771,7 @@
             "WeaponName": "[ 각성 ] [ :: 르나데산 :: ]",
             "maxLevel": 5,
             "changeByLevel": true,
-            "LeftCoolDown": [21.0, 13.0, 13.0, 9.0, 5.0],
+            "LeftCoolDown": [11.0, 9.0, 7.0, 5.0, 3.0],
             "RightCoolDown": [22.0, 22.0, 22.0, 22.0, 22.0],
             "InVillage": false,
             "CoolDownGroup": "renadesan"
@@ -1230,7 +1230,7 @@
             "WeaponName": "< 초월 > [ :: 르나데산 :: ]",
             "maxLevel": 1,
             "changeByLevel": false,
-            "LeftCoolDown": [1.0],
+            "LeftCoolDown": [3.0],
             "RightCoolDown": [22.0],
             "InVillage": false,
             "CoolDownGroup": "renadesan"
