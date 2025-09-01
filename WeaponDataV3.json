@@ -1770,8 +1770,8 @@
             "WeaponName": "[ 한정 ] [ :: 마녀의 수정 구슬 :: ]",
             "maxLevel": -1,
             "changeByLevel": false,
-            "LeftCoolDown": [0.0],
-            "RightCoolDown": [18.0],
+            "LeftCoolDown": [18.0],
+            "RightCoolDown": [0.0],
             "InVillage": false,
             "CoolDownGroup": "crystal_bead"
         },
