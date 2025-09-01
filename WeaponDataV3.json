@@ -1578,6 +1578,15 @@
             "CoolDownGroup": "scythe_of_underworld"
         },
         {
+            "WeaponName": "< 초월 > [ :: 워터로드 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [21.0],
+            "RightCoolDown": [9.0],
+            "InVillage": true,
+            "CoolDownGroup": "water_road"
+        },
+        {
             "WeaponName": "[ :: 네크로해머 :: ]",
             "maxLevel": -1,
             "changeByLevel": false,
