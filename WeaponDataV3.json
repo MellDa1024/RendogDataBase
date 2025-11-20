@@ -615,6 +615,15 @@
             "CoolDownGroup": "dark_rose"
         },
         {
+            "WeaponName": "[ 각성 ] [ :: 리안에겐 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "lian_egen"
+        },
+        {
             "WeaponName": "[ 각성 ] [ :: 문라이트 :: ]",
             "maxLevel": 5,
             "changeByLevel": false,
@@ -622,6 +631,15 @@
             "RightCoolDown": [8.0],
             "InVillage": false,
             "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 제피로스 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [17.0, 16.0, 15.0, 14.0, 13.0],
+            "RightCoolDown": [22.0, 21.0, 20.0, 19.0, 18.0],
+            "InVillage": false,
+            "CoolDownGroup": "zephyros"
         },
         {
             "WeaponName": "[ 각성 ] [ :: 주벌청선 :: ]",
@@ -1137,6 +1155,15 @@
             "CoolDownGroup": "dark_rose"
         },
         {
+            "WeaponName": "< 초월 > [ :: 리안에겐 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "lian_egen"
+        },
+        {
             "WeaponName": "< 초월 > [ :: 문라이트 :: ]",
             "maxLevel": 1,
             "changeByLevel": false,
@@ -1144,6 +1171,15 @@
             "RightCoolDown": [15.0],
             "InVillage": false,
             "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 제피로스 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [13.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "zephyros"
         },
         {
             "WeaponName": "< 초월 > [ :: 주벌청선 :: ]",
