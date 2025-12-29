@@ -7,7 +7,7 @@
             "maxLevel" : 1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [150.0],
+            "RightCoolDown": [300.0],
             "InVillage": true,
             "CoolDownGroup": "dimension_block"
         },
