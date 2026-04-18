@@ -1542,6 +1542,87 @@
             "CoolDownGroup": "heavy_smasher"
         },
         {
+            "WeaponName": "< 초월 > [ :: 데모니오 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "demonio"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 브이미르 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.47],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "vimir"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 블레이드 브랜디쉬 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [11.0],
+            "InVillage": false,
+            "CoolDownGroup": "blade_brandish"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 세크리트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "secret"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 티지트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "tigit"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 하데스 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "hades"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트론 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [14.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "tron"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 혈계심판 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [12.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "bloody_judgement"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 흑월참 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [16.0],
+            "RightCoolDown": [16.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_moon_slash"
+        },
+        {
             "WeaponName": "[ :: 가디언 쉴드 :: ]",
             "maxLevel": -1,
             "changeByLevel": false,
