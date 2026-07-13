@@ -1024,7 +1024,7 @@
             "maxLevel": 1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [20.0],
+            "RightCoolDown": [16.0],
             "InVillage": false,
             "CoolDownGroup": "evanlist"
         },
@@ -1501,7 +1501,7 @@
             "maxLevel": -1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [20.0],
+            "RightCoolDown": [16.0],
             "InVillage": false,
             "CoolDownGroup": "evanlist"
         },
