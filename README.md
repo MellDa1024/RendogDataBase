@@ -19,7 +19,8 @@ RendogClient의 데이터베이스를 불러오는 저장소(Repo)입니다.
   "LeftCoolDown" : [17.0], // 좌클릭 스킬의 쿨타임 (초 단위)
   "RightCoolDown" : [17.0], // 우클릭 스킬의 쿨타임 (초 단위)
   "InVillage" : false, // 마을 내에서 스킬 사용 가능 여부 (true: 사용 가능, false: 사용 불가)
-  "CoolDownGroup": "dark_moon_slash" // 쿨타임을 공유하는 그룹의 고유 ID (임의로 설정 가능하나 알아 볼 수 있게)
+  "CoolDownGroup": "dark_moon_slash", // 쿨타임을 공유하는 그룹의 고유 ID (임의로 설정 가능하나 알아 볼 수 있게)
+  "IsCareer": false // 전직 무기인가에 대한 여부
 }
 ```
 ### 예시 2
@@ -31,7 +32,8 @@ RendogClient의 데이터베이스를 불러오는 저장소(Repo)입니다.
   "LeftCoolDown" : [16.0, 13.0, 10.0, 7.0, 4.0],
   "RightCoolDown" : [15.0, 15.0, 15.0, 15.0, 15.0],
   "InVillage" : false, 
-  "CoolDownGroup": "fading_moon"
+  "CoolDownGroup": "fading_moon",
+  "IsCareer": false
 }
 ```
 
