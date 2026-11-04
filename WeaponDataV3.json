@@ -291,6 +291,24 @@
             "CoolDownGroup": "bishop"
         },
         {
+            "WeaponName": "[ 각성 ] [ 상귀스 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "sanguis"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ 솔라스 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "solars"
+        },
+        {
             "WeaponName": "[ 각성 ] [ 슈메티드 ]",
             "maxLevel": 5,
             "changeByLevel": true,
@@ -561,6 +579,24 @@
             "CoolDownGroup": "secret"
         },
         {
+            "WeaponName": "[ 각성 ] [ :: 셀레스트 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "celest"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 천애록 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "cheonarok"
+        },
+        {
             "WeaponName": "[ 각성 ] [ :: 티지트 :: ]",
             "maxLevel": 5,
             "changeByLevel": false,
@@ -631,6 +667,24 @@
             "RightCoolDown": [8.0],
             "InVillage": false,
             "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 아포스타시아 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [13.0, 13.0, 13.0, 13.0, 13.0],
+            "RightCoolDown": [22.0, 21.0, 20.0, 19.0, 18.0],
+            "InVillage": false,
+            "CoolDownGroup": "apostasia"
+        },
+        {
+            "WeaponName": "[ 각성 ] [ :: 엑스큐셔너 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [14.0, 14.0, 14.0, 14.0, 14.0],
+            "RightCoolDown": [24.0, 23.0, 22.0, 21.0, 20.0],
+            "InVillage": false,
+            "CoolDownGroup": "executioner"
         },
         {
             "WeaponName": "[ 각성 ] [ :: 제피로스 :: ]",
@@ -795,6 +849,15 @@
             "CoolDownGroup": "renadesan"
         },
         {
+            "WeaponName": "[ 각성 ] [ :: 아스트라 :: ]",
+            "maxLevel": 5,
+            "changeByLevel": true,
+            "LeftCoolDown": [21.0, 20.0, 19.0, 18.0, 17.0],
+            "RightCoolDown": [23.0, 22.0, 21.0, 20.0, 19.0],
+            "InVillage": false,
+            "CoolDownGroup": "astra"
+        },
+        {
             "WeaponName": "< 초월 > [ 가디언 ]",
             "maxLevel": 1,
             "changeByLevel": false,
@@ -829,6 +892,24 @@
             "RightCoolDown": [18.0],
             "InVillage": false,
             "CoolDownGroup": "bishop"
+        },
+        {
+            "WeaponName": "< 초월 > [ 상귀스 ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "sanguis"
+        },
+        {
+            "WeaponName": "< 초월 > [ 솔라스 ]",
+            "maxLevel": 5,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "solars"
         },
         {
             "WeaponName": "< 초월 > [ 슈메티드 ]",
@@ -1101,6 +1182,24 @@
             "CoolDownGroup": "secret"
         },
         {
+            "WeaponName": "< 초월 > [ :: 셀레스트 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "celest"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 천애록 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "cheonarok"
+        },
+        {
             "WeaponName": "< 초월 > [ :: 티지트 :: ]",
             "maxLevel": 1,
             "changeByLevel": false,
@@ -1171,6 +1270,24 @@
             "RightCoolDown": [15.0],
             "InVillage": false,
             "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 아포스타시아 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [13.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "apostasia"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 엑스큐셔너 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [14.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "executioner"
         },
         {
             "WeaponName": "< 초월 > [ :: 제피로스 :: ]",
@@ -1272,6 +1389,15 @@
             "CoolDownGroup": "renadesan"
         },
         {
+            "WeaponName": "< 초월 > [ :: 아스트라 :: ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "astra"
+        },
+        {
             "WeaponName": "< 초월 > [ 가디언 ]",
             "maxLevel": -1,
             "changeByLevel": false,
@@ -1306,6 +1432,24 @@
             "RightCoolDown": [18.0],
             "InVillage": false,
             "CoolDownGroup": "bishop"
+        },
+        {
+            "WeaponName": "< 초월 > [ 상귀스 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "sanguis"
+        },
+        {
+            "WeaponName": "< 초월 > [ 솔라스 ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "solars"
         },
         {
             "WeaponName": "< 초월 > [ 슈메티드 ]",
@@ -1578,6 +1722,24 @@
             "CoolDownGroup": "secret"
         },
         {
+            "WeaponName": "< 초월 > [ :: 셀레스트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "celest"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 천애록 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "cheonarok"
+        },
+        {
             "WeaponName": "< 초월 > [ :: 티지트 :: ]",
             "maxLevel": -1,
             "changeByLevel": false,
@@ -1621,6 +1783,159 @@
             "RightCoolDown": [16.0],
             "InVillage": false,
             "CoolDownGroup": "dark_moon_slash"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 다크로즈 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "dark_rose"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 리안에겐 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "lian_egen"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 문라이트 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [7.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "moon_light"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 아포스타시아 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [13.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "apostasia"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 엑스큐셔너 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [14.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "executioner"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 제피로스 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [13.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "zephyros"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 주벌청선 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [9.0],
+            "InVillage": false,
+            "CoolDownGroup": "blue_fan"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 트리아이나 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [21.0],
+            "InVillage": false,
+            "CoolDownGroup": "triaina"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 퍼니스보 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "funisbo"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 황금책형 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [18.0],
+            "InVillage": false,
+            "CoolDownGroup": "golden_crux"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 흡혈귀 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [17.0],
+            "InVillage": false,
+            "CoolDownGroup": "vampire"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 디바우어 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [15.0],
+            "InVillage": false,
+            "CoolDownGroup": "divaour"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 잔월효성 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [14.0],
+            "InVillage": false,
+            "CoolDownGroup": "fading_moon"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 레이네드 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [18.0],
+            "RightCoolDown": [20.0],
+            "InVillage": false,
+            "CoolDownGroup": "rayned"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 타라시스 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [8.0],
+            "RightCoolDown": [30.0],
+            "InVillage": false,
+            "CoolDownGroup": "tarasis"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 르나데산 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [3.0],
+            "RightCoolDown": [22.0],
+            "InVillage": false,
+            "CoolDownGroup": "renadesan"
+        },
+        {
+            "WeaponName": "< 초월 > [ :: 아스트라 :: ]",
+            "maxLevel": -1,
+            "changeByLevel": false,
+            "LeftCoolDown": [17.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "astra"
         },
         {
             "WeaponName": "[ :: 가디언 쉴드 :: ]",
