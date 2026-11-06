@@ -2397,6 +2397,15 @@
             "CoolDownGroup": "rendog_ocean_sword"
         },
         {
+            "WeaponName": "[ 한정 ] [ 월야부엉참 ] [ MAX ]",
+            "maxLevel": 1,
+            "changeByLevel": false,
+            "LeftCoolDown": [0.0],
+            "RightCoolDown": [19.0],
+            "InVillage": false,
+            "CoolDownGroup": "owlcham"
+        },
+        {
             "WeaponName" : "(Vote) [ 그래비티 건 ]",
             "maxLevel" : 1,
             "changeByLevel": false,
