@@ -304,7 +304,7 @@
             "maxLevel": 5,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [18.0],
+            "RightCoolDown": [17.0],
             "InVillage": false,
             "CoolDownGroup": "solars"
         },
@@ -583,7 +583,7 @@
             "maxLevel": 5,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [19.0],
+            "RightCoolDown": [26.0],
             "InVillage": false,
             "CoolDownGroup": "celest"
         },
@@ -904,10 +904,10 @@
         },
         {
             "WeaponName": "< 초월 > [ 솔라스 ]",
-            "maxLevel": 5,
+            "maxLevel": 1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [18.0],
+            "RightCoolDown": [17.0],
             "InVillage": false,
             "CoolDownGroup": "solars"
         },
@@ -1186,7 +1186,7 @@
             "maxLevel": 1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [19.0],
+            "RightCoolDown": [26.0],
             "InVillage": false,
             "CoolDownGroup": "celest"
         },
@@ -1726,7 +1726,7 @@
             "maxLevel": -1,
             "changeByLevel": false,
             "LeftCoolDown": [0.0],
-            "RightCoolDown": [19.0],
+            "RightCoolDown": [26.0],
             "InVillage": false,
             "CoolDownGroup": "celest"
         },
